@@ -1,0 +1,35 @@
+{
+  "name": "FARES STORE",
+  "schemaVersion": 1,
+  "catalogRevision": "2026-11-07-1713",
+  "apps": [
+    {
+      "id": "apk-installer",
+      "name": "Installateur APK",
+      "packageName": "com.flymeauto.apkinstaller",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "description": "Installe un fichier APK depuis une clé USB.",
+      "apkUrl": "https://faresautodiag.github.io/fares-store/apks/apk-installer-1.apk",
+      "sha256": "3eab45fc5b7f95d00433e1d6e33c60dd911f1376a143c890b642865836f3e51a",
+      "sizeBytes": 21643,
+      "minAndroid": 28,
+      "category": "Outils",
+      "featured": false
+    },
+    {
+      "id": "fares-store",
+      "name": "FARES STORE",
+      "packageName": "com.faresautodiag.store",
+      "versionName": "1.0.0",
+      "versionCode": 100,
+      "description": "Mise à jour de FARES STORE.",
+      "apkUrl": "https://faresautodiag.github.io/fares-store/apks/fares-store-100.apk",
+      "sha256": "7b1e0ccbd9e4aca1248f27874ae6f5a0229616755f4848d13b5eb2328d3608f8",
+      "sizeBytes": 789436,
+      "minAndroid": 23,
+      "category": "Auto",
+      "featured": true
+    }
+  ]
+}
