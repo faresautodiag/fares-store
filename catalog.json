@@ -1,7 +1,7 @@
 {
   "name": "FARES STORE",
   "schemaVersion": 1,
-  "catalogRevision": "2026-11-07-1713",
+  "catalogRevision": "2026-11-07-1730",
   "apps": [
     {
       "id": "apk-installer",
@@ -30,6 +30,20 @@
       "minAndroid": 23,
       "category": "Auto",
       "featured": true
+    },
+    {
+      "id": "quran",
+      "name": "Quran",
+      "packageName": "com.quran.labs.androidquran",
+      "versionName": "3.6.1",
+      "versionCode": 3610,
+      "description": "",
+      "apkUrl": "https://faresautodiag.github.io/fares-store/apks/quran-3610.apk",
+      "sha256": "bd12cfff2b0dbd2713c373b304f279e93e17b5ff951bda3abe09cf5b57342935",
+      "sizeBytes": 7676700,
+      "minAndroid": 23,
+      "category": "Outils",
+      "featured": false
     }
   ]
 }
